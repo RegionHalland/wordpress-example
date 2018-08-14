@@ -45,7 +45,7 @@ $ homestead up && provision
 $ composer install
 ```
 
-> ⚠️ If you got an error in step 4 saying `Fatal error: Class 'Dotenv\Dotenv' not found in ...` when running `composer install`, take a look at [this issue](#) for a temporary solution.
+> ⚠️ If you got an error in step 4 saying `Fatal error: Class 'Dotenv\Dotenv' not found in ...` when running `composer install`, take a look at [this issue](https://github.com/RegionHalland/wordpress-example/issues/1) for a temporary solution.
 
 5. If you go to [http://wordpress-example.test](http://wordpress-example.test) in your browser you should see **"Error establishing a database connection"**. We need to add environment variables to the `.env` file. In the root directory of wordpress-example, rename `.env.example ` to `.env` and open it up in your editor:
 ```sh
