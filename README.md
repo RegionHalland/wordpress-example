@@ -90,6 +90,10 @@ NONCE_SALT='BWC7/.+q*Qd1Qmwy67-Dy{Vs?tyzcsQkV$3f.$[-?X}Mw`XAWR],;sH@Y}SD5.X_'
 
 8. Go to **Appearance → Themes** in the Wordpress admin panel and active **Halland**.
 
-9. Everything should be up and running! 🎉
+9. You will notice that styles are missing. Go to the [Styleguide repository](https://github.com/RegionHalland/styleguide) and follow the installation guide to setup the project.
+
+10. Everything should be up and running! 🎉
 
 ## Development
+TBD
+
